@@ -1,2 +1,3 @@
 # first-repo
-my first repository
+My first repository
+ author - Shubham Sharma
